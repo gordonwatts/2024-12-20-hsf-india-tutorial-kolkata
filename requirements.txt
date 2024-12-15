@@ -8,3 +8,5 @@ Particle
 vector
 ipympl
 hist
+h5py
+mplhep
