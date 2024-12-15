@@ -1,0 +1,9 @@
+jupyterlab
+matplotlib
+awkward
+uproot
+jupyterlab_rise
+hepunits
+Particle
+vector
+ipympl
