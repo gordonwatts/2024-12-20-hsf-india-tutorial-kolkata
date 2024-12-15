@@ -7,3 +7,4 @@ hepunits
 Particle
 vector
 ipympl
+hist
