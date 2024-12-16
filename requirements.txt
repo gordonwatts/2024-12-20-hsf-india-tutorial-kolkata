@@ -12,3 +12,4 @@ h5py
 mplhep
 pyarrow
 pandas
+aiohttp
