@@ -13,3 +13,9 @@ mplhep
 pyarrow
 pandas
 aiohttp
+pybind11
+numba
+jax
+dask[complete]==2024.11.1
+ipycytoscape
+dask-awkward
