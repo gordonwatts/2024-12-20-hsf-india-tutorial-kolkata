@@ -10,3 +10,5 @@ ipympl
 hist
 h5py
 mplhep
+pyarrow
+pandas
